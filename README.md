@@ -7,14 +7,14 @@ Vous pouvez téléchargez ici les documents et supports utilisés sur vos défis
 
 
 
-## [Présentations](https://github.com/entrepreneur-interet-general/Ressources-DIG/tree/master/presentations)
+## [Présentations](https://github.com/entrepreneur-interet-general/Ressources-DIG/tree/master/Presentations)
 Présentations faites sur le design, ses methodes, ses métiers... 
 Se présenter soi et son défi :)
 
 ## [Ateliers](https://github.com/entrepreneur-interet-general/Ressources-DIG/tree/master/ateliers)
 Formats d'ateliers et méthodes d'animation
 
-## [Tests](https://github.com/entrepreneur-interet-general/Ressources-DIG/tree/master/tests)
+## [Tests]
 Organisation de tests et protocoles
 
 ## Ressources et tutoriels
