@@ -26,7 +26,7 @@ La DMAT est un organe de conception et de pilotage qui délègue la production. 
 1. Fort des point 3 et 4, fédérer des contributeurs et des ambassadeurs pour itérer, évaluer et tester la progression du projet depuis l’affinement de la conception jusque dans les développements.
 > **A noter**
 > Un POC, initialement porté par la DSIC, sur l’évaluation de 4 solutions clés en main pour l’administration et la gestion de prise de RDV fût confié à la DMAT en préambule du point 3.
-> Ce fait changea l’objectif de l’atelier de co-conception comme étant ~~non plus une réponse mais~~ une référence des besoins exprimer par agents de préfecture permettant l’évaluer, voire de confirmer, la pertinence d’au moins une des solutions clés en mains évaluer durant le POC.
+> Ce fait changea l’objectif de l’atelier de co-conception comme étant ~~non plus une réponse mais~~ une référence des besoins exprimés par agents de préfecture permettant d’évaluer, voire de confirmer, la pertinence d’au moins une des solutions clés en main testées durant le POC.
 ### Quels ateliers et pour faire quoi ?
 Extraint du PDF : Construire une vision basée sur les attentes des utilisateurs
 ![PlaniPref - Tableau de suivi des ateliers UX](https://raw.githubusercontent.com/entrepreneur-interet-general/Ressources-DIG/master/img/PlaniPref_UX_tableauSuiviAtelier.png)
@@ -35,9 +35,3 @@ Extraint du PDF : Construire une vision basée sur les attentes des utilisateurs
 * POC 4 solutions clés en main. [Voir le PDF](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/ateliers/PlaniPref_190905_POC_AnalysesResusltats_CR.pdf)
 * Atelier de co-conception. [Voir le PDF](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/ateliers/PlaniPref_190930_AtelierUXsept2019_CR.pdf)
 * Comité d'engagement : support d’aide à la décision co-écrit par la DMAT (analyses et recommandations sur la base des résultats des ateliers) et la DSIC (plan de charge, planning et budget). [Voir le PDF](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/ateliers/PlaniPref_191003_ComiteEngagement_vDEF.pdf) 
-
-
-
-
-
-
