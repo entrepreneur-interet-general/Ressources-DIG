@@ -11,6 +11,8 @@ Vous pouvez téléchargez ici les documents et supports utilisés sur vos défis
 Présentations faites sur le design, ses methodes, ses métiers... 
 Se présenter soi et son défi :)
 
+* **Planipref** : concevoir un outil de prise de rendez-vous en ligne plus facile à utiliser pour les usagers, plus sécurisé et efficient pour les agents. [Voir le défi](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/Planipref.md)
+
 ## [Ateliers](https://github.com/entrepreneur-interet-general/Ressources-DIG/tree/master/ateliers)
 Formats d'ateliers et méthodes d'animation
 
