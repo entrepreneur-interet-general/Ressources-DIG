@@ -35,3 +35,5 @@ Extraint du PDF : Construire une vision basée sur les attentes des utilisateurs
 * POC 4 solutions clés en main. [Voir le PDF](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/ateliers/PlaniPref_190905_POC_AnalysesResusltats_CR.pdf)
 * Atelier de co-conception. [Voir le PDF](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/ateliers/PlaniPref_190930_AtelierUXsept2019_CR.pdf)
 * Comité d'engagement : support d’aide à la décision co-écrit par la DMAT (analyses et recommandations sur la base des résultats des ateliers) et la DSIC (plan de charge, planning et budget). [Voir le PDF](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/ateliers/PlaniPref_191003_ComiteEngagement_vDEF.pdf) 
+---
+> A la DMAT, un formatage spécifique est imposé sur la couverture et dans les pages des CR. De plus, la consultation passe très souvent par une impression A4. Tous les supports ci-dessous répondent à ces 2 contraintes.
