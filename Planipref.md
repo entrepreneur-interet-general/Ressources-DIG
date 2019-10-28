@@ -1,6 +1,6 @@
 # Planipref
 
-## Qu’est ce que la refonte du module de prise de RDV en préfecture
+## Qu’est ce que la refonte du module de prise de RDV en préfecture ?
 Le programme DIG doit proposer une avancée pour les usagers et les agents, au plus tard fin septembre 2019, lors d’un comité d’engagement, pour lancer les développements au plus vite afin de respecter les délais de mise en production, au plus tard fin S1 2020.
 #### Les attendus 
 * Centraliser les parcours des usagers (aiguilleur) via un seul canal : [service-public.fr](https://www.service-public.fr/). Avec pour conséquence la fermeture les parcours actuellement visibles sur les sites des préfectures.*
