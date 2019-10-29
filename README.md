@@ -5,7 +5,7 @@ Vous pouvez téléchargez ici les documents et supports utilisés sur vos défis
 
 > nomenclature des fichiers: Presentation_Sujet_Nomdefi_AAAAMM
 
-## les défis
+## Défis
 Se présenter soi et son défi :)
 * **Planipref** : concevoir un outil de prise de rendez-vous en ligne plus facile à utiliser pour les usagers, plus sécurisé et efficient pour les agents. [Voir le défi](https://github.com/entrepreneur-interet-general/Ressources-DIG/blob/master/Planipref.md)
 
